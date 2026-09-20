@@ -58,7 +58,9 @@ Esta comparación permitió evidenciar de forma práctica por qué `millis()` es
 El video muestra el funcionamiento de ambas versiones del circuito y la diferencia de comportamiento entre `delay()` y `millis()`.
 
 [Ver video millis](https://youtube.com/shorts/SLzMT97ppjg?si=EJtjsvkn1-rs28xF)
+
 [Ver video delay](https://youtube.com/shorts/1iwWOfG87Y0?feature=share)
+
 [Ver carpeta Video](videos)
 
 ## Conclusiones
